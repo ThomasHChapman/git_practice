@@ -1,5 +1,5 @@
 #Let's Hide this silly file.
-silly_file.txt
+
 
 #ignore all CSV files
 *.csv
